@@ -6,20 +6,11 @@
 
 <h1 align="left">hey there 👋</h1>
 <div align="left">
-  <p>My name is Tien Phap Nguyen, I am a new grad from a Software Development Diploma at SAIT, currently building a financial tracker application while learning ASP .NET Core Minimal Web APIs to use in the app. Best way to learn is by practice </p>
+  <p>My name is Tien Phap Nguyen, I am a new grad from a Software Development Diploma at SAIT, currently building a financial tracker application while learning ASP .NET Core Minimal Web APIs to use in the app. </p>
 </div>
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <div align="left">
