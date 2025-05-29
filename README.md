@@ -1,9 +1,6 @@
-<div align="left">
-  <p>My name is Tien Phap Nguyen, I am a new grad from a Software Development Diploma at SAIT, currently building a financial tracker application while learning ASP .NET Core Minimal Web APIs to use in the app as a backend </p>
-</div>
+
 
 ###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
