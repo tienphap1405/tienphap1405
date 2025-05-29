@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="left">
+  <p>My name is Tien Phap Nguyen, I am a new grad from a Software Development Diploma at SAIT, currently building a financial tracker application while learning ASP .NET Core Minimal Web APIs to use in the app as a backend </p>
 </div>
 
 ###
