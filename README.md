@@ -3,7 +3,7 @@
 
 <h1 align="left">hey there 👋</h1>
 <div align="left">
-  <p>My name is Tien Phap Nguyen. I am a new grad from a Software Development Diploma at SAIT, currently building a financial tracker application while learning ASP .NET Core Minimal Web APIs to use in the app. </p>
+  <p> My name is Tien Phap Nguyen. I'm a junior developer, currently learning Angular 13</p>
 </div>
 
 ###
